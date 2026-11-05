@@ -28,9 +28,9 @@ Windows için canlı grafik, gösterge, kalıcı çizim ve kod yazmadan strateji
 - 🧪 **Kodsuz strateji** — giriş ve çıkışı Türkçe kurallarla seçin; kâr al ve zarar durdur zorunlu. Strateji Laboratuvarı işlemleri grafiğe işler ve raporu verir.
 - 💾 **Sizde kalan kayıt** — çizimler, çalışma alanı ve indirilen piyasa verisi arşivi Windows kullanıcı klasörünüzde durur.
 
-## 🎁 Ücretsiz deneyin
+## 🔑 Lisans
 
-ARVELX hesabınızla **3 gün ücretsiz** deneyin (hesap başına bir kez). Lisans tek bilgisayar içindir. Fiyatlar: **[arvelx.com/fiyatlandirma](https://www.arvelx.com/fiyatlandirma)** · Lisans: **[arvelx.com/lisans-al/rvlx-charts](https://www.arvelx.com/lisans-al/rvlx-charts)**
+RVLX Charts ARVELX hesabınız ve lisansınızla açılır. Ücretsiz deneme yoktur. Lisans tek bilgisayar içindir. Fiyatlar: **[arvelx.com/fiyatlandirma](https://www.arvelx.com/fiyatlandirma)** · Lisans: **[arvelx.com/lisans-al/rvlx-charts](https://www.arvelx.com/lisans-al/rvlx-charts)**
 
 ## 📦 İndirme ve doğrulama
 
